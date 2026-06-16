@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "王志强",
+    "nameEn": "Wang Zhiqiang",
+    "role": "科技公司总经理",
+    "roleEn": "General Manager, Tech Company",
+    "bio": "科技公司总经理",
+    "bioEn": "General Manager of Technology Company",
+    "image": "/images/team/wangzhiqiang.jpg"
+  },
+  {
+    "id": "2",
+    "name": "吴华栋",
+    "nameEn": "Wu Huadong",
+    "role": "科技公司常务副总经理",
+    "roleEn": "Executive Deputy GM, Tech Company",
+    "bio": "科技公司常务副总经理",
+    "bioEn": "Executive Deputy General Manager of Technology Company",
+    "image": "/images/team/wuhuadong.jpg"
+  },
+  {
+    "id": "3",
+    "name": "李建平",
+    "nameEn": "Li Jianping",
+    "role": "科技公司技术总监",
+    "roleEn": "Technical Director, Tech Company",
+    "bio": "科技公司技术总监",
+    "bioEn": "Technical Director of Technology Company",
+    "image": "/images/team/lijianping.jpg"
+  },
+  {
+    "id": "4",
+    "name": "黄立成",
+    "nameEn": "Huang Licheng",
+    "role": "科技公司技术中心总经理",
+    "roleEn": "GM, Technical Center, Tech Company",
+    "bio": "科技公司技术中心总经理",
+    "bioEn": "General Manager of Technical Center, Technology Company",
+    "image": "/images/team/huanglicheng.jpg"
+  },
+  {
+    "id": "5",
+    "name": "张治华",
+    "nameEn": "Zhang Zhihua",
+    "role": "科技公司项目管理中心总经理",
+    "roleEn": "GM, Project Management Center, Tech Company",
+    "bio": "科技公司项目管理中心总经理",
+    "bioEn": "General Manager of Project Management Center, Technology Company",
+    "image": "/images/team/zhangzhihua.jpg"
+  },
+  {
+    "id": "6",
+    "name": "左方超",
+    "nameEn": "Zuo Fangchao",
+    "role": "费用控制部中心总监",
+    "roleEn": "Director, Cost Control Center",
+    "bio": "费用控制部中心总监",
+    "bioEn": "Director of Cost Control Center",
+    "image": "/images/team/zuofangchao.jpg"
+  },
+  {
+    "id": "7",
+    "name": "许力",
+    "nameEn": "Xu Li",
+    "role": "科技公司总经理助理、营销中心总经理",
+    "roleEn": "Assistant GM & Marketing Center GM, Tech Company",
+    "bio": "科技公司总经理助理、营销中心总经理",
+    "bioEn": "Assistant General Manager & Marketing Center General Manager, Technology Company",
+    "image": "/images/team/xuli.jpg"
+  }
+]
