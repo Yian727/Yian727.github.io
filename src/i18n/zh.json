@@ -1,0 +1,461 @@
+{
+  "nav": {
+    "products": "产品",
+    "services": "服务",
+    "solutions": "解决方案",
+    "about": "公司介绍",
+    "team": "团队",
+    "contact": "联系"
+  },
+  "hero": {
+    "title": "固废处理全产业链服务商",
+    "subtitle": "核心设备 · 烟气净化处理系统 · 余热利用系统 · 渗滤液处理系统",
+    "contactUs": "联系我们",
+    "ourProducts": "了解产品",
+    "badge": "智慧环保 · 科技赋能"
+  },
+  "stats": [
+    {
+      "value": "300+",
+      "label": "项目落地全球"
+    },
+    {
+      "value": "50000+",
+      "label": "㎡制造基地"
+    },
+    {
+      "value": "40+",
+      "label": "运营项目"
+    },
+    {
+      "value": "15",
+      "label": "AAA级项目"
+    }
+  ],
+  "products": {
+    "title": "核心设备",
+    "description": "核心设备 · 烟气净化处理系统 · 余热利用系统 · 渗滤液处理系统 · EPC工程 · 委托运营 · 技改",
+    "items": [
+      {
+        "name": "焚烧炉系统",
+        "shortDesc": "国产系列标准炉排，50~1000t/d全覆盖，ACC+AI智慧焚烧",
+        "specs": [
+          "规格覆盖50~1000t/d",
+          "蒸发量波动率<5%",
+          "年产120套制造能力"
+        ]
+      },
+      {
+        "name": "余热锅炉系统",
+        "shortDesc": "参数全覆盖，全厂热效率最高可提升至33%",
+        "specs": [
+          "4.0/6.4/13.5MPa全覆盖",
+          "全厂热效率最高33%",
+          "多重防腐工艺"
+        ]
+      },
+      {
+        "name": "烟气净化系统",
+        "shortDesc": "全流程七步法工艺，满足国标/欧盟/超低排放",
+        "specs": [
+          "七步法烟气净化",
+          "CFD模拟+三维设计",
+          "二噁英<欧盟标准1/10"
+        ]
+      },
+      {
+        "name": "水处理系统",
+        "shortDesc": "生化+膜+浓水减量化，清水产率约80%",
+        "specs": [
+          "UASB+AO+UF+NF+RO",
+          "清水产率约80%",
+          "吨水电耗低于行业3-5%"
+        ]
+      },
+      {
+        "name": "污泥处理系统",
+        "shortDesc": "圆盘干化+鼓泡流化床，三类整体解决方案",
+        "specs": [
+          "圆盘干化机+流化床",
+          "10个在运/9个在建项目",
+          "湿污泥620吨/日案例"
+        ]
+      }
+    ]
+  },
+  "services": {
+    "title": "服务体系",
+    "description": "焚烧炉及锅炉系统 · 烟气净化处理系统 · 余热利用系统 · 渗滤液处理系统 · EPC工程 · 委托运营 · 技改",
+    "items": [
+      {
+        "name": "核心设备",
+        "desc": "焚烧炉、余热锅炉、烟气净化处理系统、余热利用系统、渗滤液处理系统研发制造"
+      },
+      {
+        "name": "EPC工程建设",
+        "desc": "设计、采购、施工、安装、调试、交付全流程总承包"
+      },
+      {
+        "name": "委托运营服务",
+        "desc": "40+项目实践，15个AAA级项目，总运营规模超5万吨/日"
+      },
+      {
+        "name": "技改服务",
+        "desc": "节能增效、环保提标、新工艺技术升级全生命周期服务"
+      },
+      {
+        "name": "技术咨询",
+        "desc": "24小时免费技术咨询，专属项目档案，终身免费诊断"
+      },
+      {
+        "name": "运营培训",
+        "desc": "标准化管理制度96项，专业人才梯队建设"
+      },
+      {
+        "name": "备件供应",
+        "desc": "集采平台保障，质量优、价格低、到货快"
+      },
+      {
+        "name": "数字化管控",
+        "desc": "DCS实时监控，大数据分析，专家系统，智能焚烧"
+      }
+    ]
+  },
+  "solutions": {
+    "title": "解决方案",
+    "categories": [
+      {
+        "name": "生活垃圾焚烧发电",
+        "desc": "日处理75~5200吨，覆盖发展中国家低热值至发达国家高热值垃圾，适配-30℃极寒至3650m高海拔",
+        "features": [
+          "SUS 4.0智慧减碳技术",
+          "发电效率持续行业领先",
+          "深度热利用+AI赋能"
+        ]
+      },
+      {
+        "name": "工业固废协同处置",
+        "desc": "焚烧炉+烟气净化+水处理全链条协同，适配多元工业固废",
+        "features": [
+          "多源协同处置",
+          "余热深度利用",
+          "飞灰资源化"
+        ]
+      },
+      {
+        "name": "污泥干化焚烧",
+        "desc": "圆盘干化+鼓泡流化床/协同焚烧/单独焚烧三类方案",
+        "features": [
+          "全产业链自主技术",
+          "620吨/日标杆案例",
+          "尾气排放达标"
+        ]
+      },
+      {
+        "name": "环保提标改造",
+        "desc": "烟气系统升级、节能增效、锅炉扩容、智慧化改造",
+        "features": [
+          "NOx降至30mg/m³以下",
+          "吨发电量提升3%",
+          "年收益增加2300万案例"
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "name": "宁波项目",
+        "tag": "鲁班奖",
+        "desc": "浙江省行业内第一座鲁班奖，3×750t/d，法国AIA设计蜂巢理念，国内首个七步法烟气净化，二噁英实测仅为欧盟标准1/10"
+      },
+      {
+        "name": "三河项目",
+        "tag": "电力优质工程奖",
+        "desc": "2×1000t/d，首台自主国产千吨大炉排，去工业化设计，首次应用超高压炉外除湿再热技术，全厂发电效率超过31%"
+      },
+      {
+        "name": "杭州临江项目",
+        "tag": "EPC+O模式",
+        "desc": "6×870t/d焚烧炉+3×45MW发电机，工期26个月，首个EPC+O模式项目"
+      },
+      {
+        "name": "斯里兰卡科伦坡",
+        "tag": "海外标杆",
+        "desc": "海外标杆项目，康恒科技技术输出发展中国家"
+      },
+      {
+        "name": "南宁双定项目",
+        "tag": "污泥处理",
+        "desc": "湿污泥处理规模620吨/日（5×125t/d），园区单独建厂，运行稳定"
+      },
+      {
+        "name": "如皋项目",
+        "tag": "技改标杆",
+        "desc": "EGR烟气再循环技改，3×750t/d，NOx由118降至76mg/Nm³，氨水耗量下降超50%"
+      }
+    ]
+  },
+  "about": {
+    "title": "关于康恒科技",
+    "subtitle": "上海康恒环境股份有限公司，聚焦固废处理全产业链，致力于成为全球领先的环保能源综合服务商",
+    "companyDesc": "集核心设备、烟气净化处理系统、余热利用系统、渗滤液处理系统研发制造，EPC工程建设、委托运营、技改服务于一体，打造\"设备+工程+运营+技改\"全周期综合解决方案，业务覆盖国内及海外多个国家与地区。",
+    "mission": "以创新技术守护绿色家园，推动全球固废资源化利用",
+    "vision": "成为全球固废处理领域最受信赖的环保能源综合服务商",
+    "timeline": [
+      {
+        "year": "2008",
+        "title": "公司成立",
+        "desc": "聚焦焚烧发电设备研发制造"
+      },
+      {
+        "year": "2010",
+        "title": "SUS 1.0",
+        "desc": "现代化焚烧发电技术，发电效率22%，达欧盟标准"
+      },
+      {
+        "year": "2013",
+        "title": "市场拓展",
+        "desc": "设备出口海外市场，斯里兰卡科伦坡项目落地"
+      },
+      {
+        "year": "2016",
+        "title": "SUS 2.0",
+        "desc": "清洁高效焚烧发电技术，发电效率26%，近零排放"
+      },
+      {
+        "year": "2018",
+        "title": "EPC起步",
+        "desc": "宁波项目获鲁班奖，进军工程总承包"
+      },
+      {
+        "year": "2020",
+        "title": "SUS 3.0",
+        "desc": "智能高效焚烧发电技术，发电效率行业第一"
+      },
+      {
+        "year": "2023",
+        "title": "运营规模化",
+        "desc": "40+运营项目，15个AAA级，总运营规模超5万吨/日"
+      },
+      {
+        "year": "2024",
+        "title": "SUS 4.0",
+        "desc": "智慧减碳焚烧发电&深度热利用技术，AI赋能"
+      }
+    ],
+    "sus": {
+      "title": "SUS全系列技术体系",
+      "subtitle": "从焚烧发电设备供应商向综合固废能源服务商的升级之路",
+      "generations": [
+        {
+          "version": "SUS 1.0",
+          "period": "~2010",
+          "title": "现代化焚烧发电技术",
+          "efficiency": "发电效率22%",
+          "features": [
+            "中温中压发电",
+            "五步法烟气净化",
+            "ACC自动燃烧控制"
+          ],
+          "highlight": "达到欧盟标准，实现自动化"
+        },
+        {
+          "version": "SUS 2.0",
+          "period": "2011~2016",
+          "title": "清洁高效焚烧发电技术",
+          "efficiency": "发电效率26%",
+          "features": [
+            "中温次高压发电",
+            "七步法烟气净化",
+            "渗滤液零排放",
+            "ACC⁺自动燃烧控制"
+          ],
+          "highlight": "实现近零排放"
+        },
+        {
+          "version": "SUS 3.0",
+          "period": "2017~2023",
+          "title": "智能高效焚烧发电技术",
+          "efficiency": "发电效率行业第一",
+          "features": [
+            "中温超高压发电",
+            "热电联产",
+            "烟气再循环",
+            "智能焚烧控制"
+          ],
+          "highlight": "超高能源利用效率、智能化升级"
+        },
+        {
+          "version": "SUS 4.0",
+          "period": "2024~",
+          "title": "智慧减碳&深度热利用技术",
+          "efficiency": "持续领先",
+          "features": [
+            "多级燃烧",
+            "碳捕集与资源化",
+            "火焰透视",
+            "数字化智能化管控"
+          ],
+          "highlight": "深度热利用+AI赋能"
+        }
+      ]
+    },
+    "team": {
+      "title": "管理团队",
+      "members": [
+        {
+          "name": "王志强",
+          "nameEn": "Wang Zhiqiang",
+          "role": "科技公司总经理",
+          "roleEn": "General Manager, Tech Company",
+          "bio": "科技公司总经理",
+          "bioEn": "General Manager of Technology Company"
+        },
+        {
+          "name": "吴华栋",
+          "nameEn": "Wu Huadong",
+          "role": "科技公司常务副总经理",
+          "roleEn": "Executive Deputy GM, Tech Company",
+          "bio": "科技公司常务副总经理",
+          "bioEn": "Executive Deputy General Manager of Technology Company"
+        },
+        {
+          "name": "李建平",
+          "nameEn": "Li Jianping",
+          "role": "科技公司技术总监",
+          "roleEn": "Technical Director, Tech Company",
+          "bio": "科技公司技术总监",
+          "bioEn": "Technical Director of Technology Company"
+        },
+        {
+          "name": "黄立成",
+          "nameEn": "Huang Licheng",
+          "role": "科技公司技术中心总经理",
+          "roleEn": "GM, Technical Center, Tech Company",
+          "bio": "科技公司技术中心总经理",
+          "bioEn": "General Manager of Technical Center, Technology Company"
+        },
+        {
+          "name": "张治华",
+          "nameEn": "Zhang Zhihua",
+          "role": "科技公司项目管理中心总经理",
+          "roleEn": "GM, Project Management Center, Tech Company",
+          "bio": "科技公司项目管理中心总经理",
+          "bioEn": "General Manager of Project Management Center, Technology Company"
+        },
+        {
+          "name": "左方超",
+          "nameEn": "Zuo Fangchao",
+          "role": "费用控制部中心总监",
+          "roleEn": "Director, Cost Control Center",
+          "bio": "费用控制部中心总监",
+          "bioEn": "Director of Cost Control Center"
+        },
+        {
+          "name": "许力",
+          "nameEn": "Xu Li",
+          "role": "科技公司总经理助理、营销中心总经理",
+          "roleEn": "Assistant GM & Marketing Center GM, Tech Company",
+          "bio": "科技公司总经理助理、营销中心总经理",
+          "bioEn": "Assistant General Manager & Marketing Center General Manager, Technology Company"
+        }
+      ]
+    },
+    "awards": [
+      "国家高新技术企业",
+      "中国环保产业骨干企业",
+      "鲁班奖（宁波项目）",
+      "电力优质工程奖（三河项目）",
+      "15个AAA级项目认证"
+    ]
+  },
+  "news": {
+    "title": "最新动态",
+    "items": [
+      {
+        "category": "技术发布",
+        "title": "康恒科技发布SUS 4.0智慧减碳焚烧发电技术",
+        "summary": "深度热利用+AI赋能，发电效率持续行业领先...",
+        "date": "2024-06-15"
+      },
+      {
+        "category": "项目落地",
+        "title": "斯里兰卡科伦坡垃圾焚烧发电项目正式投运",
+        "summary": "海外标杆项目，日处理千吨级，技术输出发展中国家...",
+        "date": "2024-05-20"
+      },
+      {
+        "category": "行业荣誉",
+        "title": "康恒科技蝉联中国环保产业骨干企业",
+        "summary": "技术实力与项目经验再获行业认可...",
+        "date": "2024-04-10"
+      },
+      {
+        "category": "技改案例",
+        "title": "如皋项目EGR技改：NOx下降50%+，氨水耗量减半",
+        "summary": "烟气再循环技术成功应用，环保指标显著提升...",
+        "date": "2024-03-28"
+      }
+    ]
+  },
+  "cta": {
+    "title": "共创绿色未来",
+    "subtitle": "无论您是市政环卫、工业园区还是固废处置企业，我们都能为您提供量身定制的环保解决方案",
+    "button": "立即咨询"
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "请填写以下信息，我们将在24小时内与您取得联系",
+    "fields": {
+      "name": "姓名",
+      "company": "公司名称",
+      "email": "电子邮箱",
+      "phone": "联系电话",
+      "requirement": "需求类型",
+      "message": "留言内容"
+    },
+    "placeholders": {
+      "name": "请输入您的姓名",
+      "company": "请输入公司名称",
+      "email": "example@company.com",
+      "phone": "请输入联系电话",
+      "message": "请描述您的需求或问题..."
+    },
+    "selectOptions": {
+      "placeholder": "请选择需求类型",
+      "options": [
+        "设备咨询",
+        "工程合作",
+        "委托运营",
+        "技改",
+        "售后服务",
+        "其他"
+      ]
+    },
+    "submit": "提交咨询",
+    "success": {
+      "title": "提交成功",
+      "desc": "感谢您的咨询，我们将在24小时内与您取得联系"
+    },
+    "info": {
+      "address": "上海市青浦区华新镇华隆路1788号",
+      "phone": "+86 21 6921 xxxx",
+      "email": "info@shkhenv.com",
+      "hours": "周一至周五 9:00 - 18:00"
+    }
+  },
+  "footer": {
+    "intro": "上海康恒环境股份有限公司（品牌：康恒科技），聚焦固废处理全产业链，致力于成为全球领先的环保能源综合服务商。",
+    "links": {
+      "title": "快速链接"
+    },
+    "contact": {
+      "title": "联系方式"
+    },
+    "newsletter": {
+      "title": "订阅资讯",
+      "placeholder": "输入您的邮箱",
+      "button": "订阅"
+    },
+    "copyright": "© 2025 上海康恒环境股份有限公司 版权所有"
+  }
+}

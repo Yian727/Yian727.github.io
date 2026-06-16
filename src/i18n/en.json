@@ -1,0 +1,432 @@
+{
+  "nav": {
+    "products": "Products",
+    "services": "Services",
+    "solutions": "Solutions",
+    "about": "About",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Full-Chain Solid Waste Solutions",
+    "subtitle": "Core Equipment · Flue Gas · Waste Heat · Leachate",
+    "contactUs": "Contact Us",
+    "ourProducts": "Our Products",
+    "badge": "Smart Environmental · Tech"
+  },
+  "stats": [
+    {
+      "value": "300+",
+      "label": "Projects Worldwide"
+    },
+    {
+      "value": "50000+",
+      "label": "㎡ Manufacturing"
+    },
+    {
+      "value": "40+",
+      "label": "Operating Projects"
+    },
+    {
+      "value": "15",
+      "label": "AAA-rated Projects"
+    }
+  ],
+  "products": {
+    "title": "Core Equipment",
+    "description": "Core equipment R&D, manufacturing, and technical innovation",
+    "items": [
+      {
+        "name": "Incinerator System",
+        "shortDesc": "Standard grates 50~1000t/d, ACC+AI smart combustion",
+        "specs": [
+          "Capacity 50~1000t/d",
+          "Fluctuation <5%",
+          "120 sets/year capacity"
+        ]
+      },
+      {
+        "name": "Waste Heat Boiler",
+        "shortDesc": "Full parameter coverage, efficiency up to 33%",
+        "specs": [
+          "4.0/6.4/13.5MPa",
+          "Efficiency up to 33%",
+          "Multi-layer anti-corrosion"
+        ]
+      },
+      {
+        "name": "Flue Gas System",
+        "shortDesc": "7-step process, meets CN/EU/ultra-low standards",
+        "specs": [
+          "7-step purification",
+          "CFD + 3D design",
+          "Dioxin <1/10 EU std"
+        ]
+      },
+      {
+        "name": "Water Treatment",
+        "shortDesc": "Bio+membrane+concentrate reduction, 80% yield",
+        "specs": [
+          "UASB+AO+UF+NF+RO",
+          "~80% water yield",
+          "3-5% lower power"
+        ]
+      },
+      {
+        "name": "Sludge Treatment",
+        "shortDesc": "Disc dryer+fluidized bed, 3 solution types",
+        "specs": [
+          "Dryer+fluidized bed",
+          "10 operating projects",
+          "620t/d benchmark"
+        ]
+      }
+    ]
+  },
+  "services": {
+    "title": "Service System",
+    "description": "Equipment-EPC-Operation-Retrofit, one-stop full lifecycle service",
+    "items": [
+      {
+        "name": "Core Equipment",
+        "desc": "Incinerators, waste heat boilers, flue gas purification, waste heat utilization, leachate treatment systems"
+      },
+      {
+        "name": "EPC Engineering",
+        "desc": "Full turnkey from design to commissioning"
+      },
+      {
+        "name": "Operation Service",
+        "desc": "40+ projects, 15 AAA-rated, 50000+ t/d total"
+      },
+      {
+        "name": "Retrofit Service",
+        "desc": "Energy efficiency, emission upgrade, new tech"
+      },
+      {
+        "name": "Tech Consulting",
+        "desc": "24/7 free consulting, lifetime diagnosis"
+      },
+      {
+        "name": "Training",
+        "desc": "96 standardized management protocols"
+      },
+      {
+        "name": "Spare Parts",
+        "desc": "Quality guarantee, low price, fast delivery"
+      },
+      {
+        "name": "Digital Control",
+        "desc": "DCS monitoring, big data, AI combustion"
+      }
+    ]
+  },
+  "solutions": {
+    "title": "Solutions",
+    "categories": [
+      {
+        "name": "MSW Incineration",
+        "desc": "75~5200 t/d, from low to high heat value, -30°C to 3650m altitude",
+        "features": [
+          "SUS 4.0 smart carbon reduction",
+          "Leading power efficiency",
+          "Deep heat recovery + AI"
+        ]
+      },
+      {
+        "name": "Industrial Waste",
+        "desc": "Full-chain incineration+flue gas+water treatment synergy",
+        "features": [
+          "Multi-source协同",
+          "Deep heat recovery",
+          "Fly ash资源化"
+        ]
+      },
+      {
+        "name": "Sludge Drying",
+        "desc": "Three solutions: drying, co-incineration, standalone",
+        "features": [
+          "Full-chain self-tech",
+          "620t/d benchmark",
+          "Emission compliant"
+        ]
+      },
+      {
+        "name": "Emission Upgrade",
+        "desc": "Flue gas upgrade, energy efficiency, boiler expansion",
+        "features": [
+          "NOx <30mg/m³",
+          "Power +3% per ton",
+          "Case: +23M yuan/yr"
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "name": "Ningbo",
+        "tag": "Luban Prize",
+        "desc": "First Luban Prize in Zhejiang, 3×750t/d, French AIA design, first 7-step purification, dioxin <1/10 EU std"
+      },
+      {
+        "name": "Sanhe",
+        "tag": "Power Quality Award",
+        "desc": "2×1000t/d, first domestic 1000t grate, super high-pressure reheating, efficiency >31%"
+      },
+      {
+        "name": "Hangzhou Linjiang",
+        "tag": "EPC+O",
+        "desc": "6×870t/d + 3×45MW, 26-month delivery, first EPC+O project"
+      },
+      {
+        "name": "Colombo",
+        "tag": "Overseas",
+        "desc": "Landmark overseas project, technology export to developing nations"
+      },
+      {
+        "name": "Nanning Shuangding",
+        "tag": "Sludge",
+        "desc": "620t/d wet sludge (5×125t/d), standalone plant, stable operation"
+      },
+      {
+        "name": "Rugao Retrofit",
+        "tag": "Upgrade",
+        "desc": "EGR retrofit, 3×750t/d, NOx 118→76mg/Nm³, ammonia -50%"
+      }
+    ]
+  },
+  "about": {
+    "title": "About KH Tech",
+    "subtitle": "Shanghai Kangheng Environmental, full-chain solid waste treatment, global leading service provider",
+    "companyDesc": "Integrating core equipment, flue gas purification, waste heat utilization, and leachate treatment R&D and manufacturing with EPC engineering, operation services, and retrofit, providing full-cycle solutions across domestic and international markets.",
+    "mission": "Safeguard the green home with innovative technology",
+    "vision": "To become the most trusted environmental energy service provider globally",
+    "timeline": [
+      {
+        "year": "2008",
+        "title": "Founded",
+        "desc": "Focus on incineration incineration, flue gas, waste heat & leachate systems"
+      },
+      {
+        "year": "2010",
+        "title": "SUS 1.0",
+        "desc": "Modern WtE, 22% efficiency, EU standard"
+      },
+      {
+        "year": "2013",
+        "title": "Global",
+        "desc": "Export equipment, Colombo project"
+      },
+      {
+        "year": "2016",
+        "title": "SUS 2.0",
+        "desc": "Clean efficient, 26%, near zero emission"
+      },
+      {
+        "year": "2018",
+        "title": "EPC",
+        "desc": "Ningbo Luban Prize, enter EPC"
+      },
+      {
+        "year": "2020",
+        "title": "SUS 3.0",
+        "desc": "Smart efficient, industry-leading"
+      },
+      {
+        "year": "2023",
+        "title": "Scale",
+        "desc": "40+ projects, 15 AAA, 50000+ t/d"
+      },
+      {
+        "year": "2024",
+        "title": "SUS 4.0",
+        "desc": "Smart carbon reduction + AI"
+      }
+    ],
+    "sus": {
+      "title": "SUS Technology System",
+      "subtitle": "Evolution from equipment supplier to comprehensive service provider",
+      "generations": [
+        {
+          "version": "SUS 1.0",
+          "period": "~2010",
+          "title": "Modern WtE",
+          "efficiency": "22%",
+          "features": [
+            "Medium temp/pressure",
+            "5-step flue gas",
+            "ACC control"
+          ],
+          "highlight": "EU standard"
+        },
+        {
+          "version": "SUS 2.0",
+          "period": "2011~2016",
+          "title": "Clean & Efficient",
+          "efficiency": "26%",
+          "features": [
+            "Medium temp/sub-high",
+            "7-step flue gas",
+            "Zero leachate",
+            "ACC+"
+          ],
+          "highlight": "Near zero emission"
+        },
+        {
+          "version": "SUS 3.0",
+          "period": "2017~2023",
+          "title": "Smart & Efficient",
+          "efficiency": "#1",
+          "features": [
+            "Ultra-high pressure",
+            "CHP",
+            "Flue gas recirc",
+            "AI control"
+          ],
+          "highlight": "Industry leader"
+        },
+        {
+          "version": "SUS 4.0",
+          "period": "2024~",
+          "title": "Smart Carbon Reduction",
+          "efficiency": "Leading",
+          "features": [
+            "Multi-stage burn",
+            "CCUS",
+            "Flame vision",
+            "Digital twin"
+          ],
+          "highlight": "AI powered"
+        }
+      ]
+    },
+    "team": {
+      "title": "Management Team",
+      "members": [
+        {
+          "name": "Wang Zhiqiang",
+          "nameEn": "Wang Zhiqiang",
+          "role": "General Manager, Tech Company",
+          "roleEn": "General Manager, Tech Company",
+          "bio": "General Manager of Technology Company",
+          "bioEn": "General Manager of Technology Company"
+        },
+        {
+          "name": "Wu Huadong",
+          "nameEn": "Wu Huadong",
+          "role": "Executive Deputy GM, Tech Company",
+          "roleEn": "Executive Deputy GM, Tech Company",
+          "bio": "Executive Deputy General Manager of Technology Company",
+          "bioEn": "Executive Deputy General Manager of Technology Company"
+        },
+        {
+          "name": "Li Jianping",
+          "nameEn": "Li Jianping",
+          "role": "Technical Director, Tech Company",
+          "roleEn": "Technical Director, Tech Company",
+          "bio": "Technical Director of Technology Company",
+          "bioEn": "Technical Director of Technology Company"
+        },
+        {
+          "name": "Huang Licheng",
+          "nameEn": "Huang Licheng",
+          "role": "GM, Technical Center, Tech Company",
+          "roleEn": "GM, Technical Center, Tech Company",
+          "bio": "General Manager of Technical Center, Technology Company",
+          "bioEn": "General Manager of Technical Center, Technology Company"
+        },
+        {
+          "name": "Zhang Zhihua",
+          "nameEn": "Zhang Zhihua",
+          "role": "GM, Project Management Center, Tech Company",
+          "roleEn": "GM, Project Management Center, Tech Company",
+          "bio": "General Manager of Project Management Center, Technology Company",
+          "bioEn": "General Manager of Project Management Center, Technology Company"
+        },
+        {
+          "name": "Zuo Fangchao",
+          "nameEn": "Zuo Fangchao",
+          "role": "Director, Cost Control Center",
+          "roleEn": "Director, Cost Control Center",
+          "bio": "Director of Cost Control Center",
+          "bioEn": "Director of Cost Control Center"
+        },
+        {
+          "name": "Xu Li",
+          "nameEn": "Xu Li",
+          "role": "Assistant GM & Marketing Center GM, Tech Company",
+          "roleEn": "Assistant GM & Marketing Center GM, Tech Company",
+          "bio": "Assistant General Manager & Marketing Center General Manager, Technology Company",
+          "bioEn": "Assistant General Manager & Marketing Center General Manager, Technology Company"
+        }
+      ]
+    },
+    "awards": [
+      "High-Tech Enterprise",
+      "Top 100 Env Company",
+      "Luban Prize",
+      "Power Quality Award",
+      "15 AAA Projects"
+    ]
+  },
+  "cta": {
+    "title": "Create Green Future",
+    "subtitle": "Tailored solutions for municipal, industrial, and waste disposal needs",
+    "button": "Contact Us"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Fill in below, we will respond within 24 hours",
+    "fields": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "requirement": "Requirement Type",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Your name",
+      "company": "Company name",
+      "email": "example@company.com",
+      "phone": "Phone number",
+      "message": "Describe your needs..."
+    },
+    "selectOptions": {
+      "placeholder": "Select requirement type",
+      "options": [
+        "Equipment Inquiry",
+        "EPC Cooperation",
+        "Operation Service",
+        "Retrofit",
+        "After-sales",
+        "Other"
+      ]
+    },
+    "submit": "Submit",
+    "success": {
+      "title": "Submitted Successfully",
+      "desc": "Thank you for your inquiry. We will contact you within 24 hours."
+    },
+    "info": {
+      "address": "No.1788 Hualong Rd, Qingpu, Shanghai",
+      "phone": "+86 21 6921 xxxx",
+      "email": "info@shkhenv.com",
+      "hours": "Mon-Fri 9:00-18:00"
+    }
+  },
+  "footer": {
+    "intro": "Shanghai Kangheng Environmental Technology Co., Ltd. (Brand: KH Tech)",
+    "links": {
+      "title": "Quick Links"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    },
+    "copyright": "© 2025 Shanghai Kangheng Environmental Co., Ltd."
+  }
+}

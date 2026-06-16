@@ -1,0 +1,108 @@
+/* ═══════════════════════════════════════════
+   Global App Styles
+   ═══════════════════════════════════════════ */
+
+:root {
+  --color-dark: #1d1d1f;
+  --color-gray: #86868b;
+  --color-light-gray: #f5f5f7;
+  --color-border: #d2d2d7;
+  --color-white: #ffffff;
+  --color-bg: #fafafa;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  color: #1d1d1f;
+  background: #fff;
+}
+
+/* Smooth scrollbar */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+/* Remove number input arrows */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Selection color */
+::selection {
+  background: #1d1d1f;
+  color: #fff;
+}
+
+/* Admin page styles */
+.admin-input {
+  width: 100%;
+  padding: 0.625rem 0.875rem;
+  border: 1px solid #e8e8ed;
+  border-radius: 0.75rem;
+  font-size: 13px;
+  color: #1d1d1f;
+  background: #fafafa;
+  transition: all 0.2s;
+}
+
+.admin-input:focus {
+  outline: none;
+  border-color: #1d1d1f;
+  background: #fff;
+}
+
+.admin-input::placeholder {
+  color: #c7c7cc;
+}
+
+.admin-textarea {
+  width: 100%;
+  padding: 0.625rem 0.875rem;
+  border: 1px solid #e8e8ed;
+  border-radius: 0.75rem;
+  font-size: 13px;
+  color: #1d1d1f;
+  background: #fafafa;
+  transition: all 0.2s;
+  resize: none;
+}
+
+.admin-textarea:focus {
+  outline: none;
+  border-color: #1d1d1f;
+  background: #fff;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
